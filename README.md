@@ -1,2 +1,2 @@
 # Deep-Learning
-The following codes show object detection using YOLO_V3 & YOLO_V4
+This repository shows object detection using different versions of YOLO
